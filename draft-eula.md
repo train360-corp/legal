@@ -10,13 +10,13 @@ This License Agreement may not provide for usage rules for the Licensed Applicat
 
 Train360 when purchased or downloaded through the Services, is licensed to You for use only under the terms of this License Agreement. The Licensor reserves all rights not expressly granted to You. Train360 is to be used on devices that operate with Apple's operating systems ("iOS" and "Mac OS") or Google's operating system ("Android").
 
-## The Application
+## 1. The Application
 
 Train360 ("**Licensed Application**") is a piece of software created to facilitate the creation of training plans and payments therefor by trainers and their clients — and customized for iOS and Android mobile devices ("**Devices**"). It is used to allow business and transactions between trainers and their clients.
 
 The Licensed Application is not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use this Licensed Application. You may not use the Licensed Application in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
 
-## Scope of License
+## 2. Scope of License
 
 2.1  You are given a non-transferable, non-exclusive, non-sublicensable license to install and use the Licensed Application on any Devices that You (End-User) own or control and as permitted by the Usage Rules, with the exception that such Licensed Application may be accessed and used by other accounts associated with You (End-User, The Purchaser) via Family Sharing or volume purchasing.
 
@@ -34,7 +34,7 @@ The Licensed Application is not tailored to comply with industry-specific regula
 
 2.8  Nothing in this license should be interpreted to restrict third-party terms. When using the Licensed Application, You must ensure that You comply with applicable third-party terms and conditions.
 
-## Technical Requirements
+## 3. Technical Requirements
 
 3.1  Licensor attempts to keep the Licensed Application updated so that it complies with modified/new versions of the firmware and new hardware. You are not granted rights to claim such an update.
 
@@ -42,19 +42,19 @@ The Licensed Application is not tailored to comply with industry-specific regula
 
 3.3  Licensor reserves the right to modify the technical specifications as it sees appropriate at any time.
 
-4. Maintenance and Support
+## 4. Maintenance and Support
 
 4.1  The Licensor is solely responsible for providing any maintenance and support services for this Licensed Application. You can reach the Licensor at the email address listed in the App Store or Play Store Overview for this Licensed Application.
 
 4.2  Train360, Corp. and the End-User acknowledge that the Services have no obligation whatsoever to furnish any maintenance and support services with respect to the Licensed Application.
 
-## Use of Date
+## 5. Use of Date
 
 You acknowledge that Licensor will be able to access and adjust Your downloaded Licensed Application content and Your personal information, and that Licensor's use of such material and information is subject to Your legal agreements with Licensor and Licensor's privacy policy: [https://train360.co/legal/privacy-policy](https://train360.co/legal/privacy-policy).
 
 You acknowledge that the Licensor may periodically collect and use technical data and related information about your device, system, and application software, and peripherals, offer product support, facilitate the software updates, and for purposes of providing other services to you (if any) related to the Licensed Application. Licensor may also use this information to improve its products or to provide services or technologies to you, as long as it is in a form that does not personally identify you.
 
-## User-Generated Contributions
+## 6. User-Generated Contributions
   
 The Licensed Application may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or in the Licensed Application, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of the Licensed Application and through third-party websites or applications. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
 
@@ -86,7 +86,7 @@ The Licensed Application may invite you to chat, contribute to, or participate i
 
 Any use of the Licensed Application in violation of the foregoing violates this License Agreement and may result in, among other things, termination or suspension of your rights to use the Licensed Application.
 
-## Contribution License
+## 7. Contribution License
 
 By posting your Contributions to any part of the Licensed Application or making Contributions accessible to the Licensed Application by linking your account from the Licensed Application to any of your social networking accounts, you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use copy, reproduce, disclose, sell, resell, publish, broad cast, retitle, archive, store, cache, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial advertising, or otherwise, and to prepare derivative works of, or incorporate in other works, such as Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels.
 
@@ -96,13 +96,13 @@ We do not assert any ownership over your Contributions. You retain full ownershi
 
 We have the right, in our sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to recategorize any Contributions to place them in more appropriate locations in the Licensed Application; and (3) to prescreen or delete any Contributions at any time and for any reason, without notice. We have no obligation to monitor your Contributions.
 
-## Liability
+## 8. Liability
 
 8.1  Licensor's responsibility in the case of violation of obligations and tort shall be limited to intent and gross negligence. Only in case of a breach of essential contractual duties (cardinal obligations), Licensor shall also be liable in case of slight negligence. In any case, liability shall be limited to the foreseeable, contractually typical damages. The limitation mentioned above does not apply to injuries to life, limb, or health.
 
 8.2  Licensor takes no accountability or responsibility for any damages caused due to a breach of duties according to Section 2 of this License Agreement. To avoid data loss, You are required to make use of backup functions of the Licensed Application to the extent allowed by applicable third-party terms and conditions of use. You are aware that in case of alterations or manipulations of the Licensed Application, You will not have access to the Licensed Application.
 
-## Warranty
+## 9. Warranty
 
 9.1  Licensor warrants that the Licensed Application is free of spyware, trojan horses, viruses, or any other malware at the time of Your download. Licensor warrants that the Licensed Application works as described in the user documentation.
 
@@ -117,7 +117,7 @@ We have the right, in our sole and absolute discretion, (1) to edit, redact, or 
 
 9.6  If the user is an entrepreneur, any claim based on faults expires after a statutory period of limitation amounting to twelve (12) months after the Licensed Application was made available to the user. The statutory periods of limitation given by law apply for users who are consumers.
 
-## Product Claims
+## 10. Product Claims
 
 Train360, Corp. and the End-User acknowledge that Train360, Corp., and not the Services, is responsible for addressing any claims of the End-User or any third party relating to the Licensed Application or the End-User’s possession and/or use of that Licensed Application, including, but not limited to:
 
@@ -127,13 +127,13 @@ Train360, Corp. and the End-User acknowledge that Train360, Corp., and not the 
 
 3. claims arising under consumer protection, privacy, or similar legislation, including in connection with Your Licensed Application’s use of the HealthKit and HomeKit.
 
-## Legal Compliance
+## 11. Legal Compliance
 
 You represent and warrant that You are not located in a country that is subject to a US Government embargo, or that has been designated by the US Government as a "terrorist supporting" country; and that You are not listed on any US Government list of prohibited or restricted parties.
 
 In order to comply with our legal obligations, including, but not limited to, 15 U.S.C. § 6501 et seq. and 16 CFR Part 312, any person must be at least thirteen (13) years of age to use the Service. You represent that You are of at least thirteen (13) years of age.
 
-## Contact Information
+## 12. Contact Information
 
 For general inquiries, complaints, questions or claims concerning the Licensed Application, please contact:
 
@@ -145,25 +145,25 @@ United States
 
 me@nicholasrbarrow.com
 
-## Termination
+## 13. Termination
 
 The license is valid until terminated by Train360, Corp. or by You. Your rights under this license will terminate automatically and without notice from Train360, Corp. if You fail to adhere to any term(s) of this license. Upon License termination, You shall stop all use of the Licensed Application, and destroy all copies, full or partial, of the Licensed Application.
 
-## Third-Party Terms of Agreements and Beneficiary
+## 14. Third-Party Terms of Agreements and Beneficiary
 
 Train360, Corp. represents and warrants that Train360, Corp. will comply with applicable third-party terms of agreement when using Licensed Application.
 
 In Accordance with Section 9 of the "Instructions for Minimum Terms of Developer's End-User License Agreement," both Apple and Google and their subsidiaries shall be third-party beneficiaries of this End User License Agreement and — upon Your acceptance of the terms and conditions of this License Agreement, both Apple and Google will have the right (and will be deemed to have accepted the right) to enforce this End User License Agreement against You as a third-party beneficiary thereof.
 
-## Intellectual Property Rights
+## 15. Intellectual Property Rights
 
 Train360, Corp. and the End-User acknowledge that, in the event of any third-party claim that the Licensed Application or the End-User's possession and use of that Licensed Application infringes on the third party's intellectual property rights, Train360, Corp., and not the Services, will be solely responsible for the investigation, defense, settlement, and discharge or any such intellectual property infringement claims.
 
-## Applicable Law
+## 16. Applicable Law
 
 This License Agreement is governed by the laws of the State of Delaware excluding its conflicts of law rules.
 
-## Miscellaneous
+## 17. Miscellaneous
 
 17.1  If any of the terms of this agreement should be or become invalid, the validity of the remaining provisions shall not be affected. Invalid terms will be replaced by valid ones formulated in a way that will achieve the primary purpose.
 
