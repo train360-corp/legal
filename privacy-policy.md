@@ -104,7 +104,7 @@ payment instrument number, and the security code associated with your payment in
 and stored by Stripe. You may find their privacy notice link(s)
 here: [https://stripe.com/privacy](https://stripe.com/privacy).
 
-**Social Media Login Data.**We may provide you with the option to register with us using your existing social media
+**Social Media Login Data.** We may provide you with the option to register with us using your existing social media
 account details, like your Facebook, X, or other social media account. If you choose to register in this way, we will
 collect certain profile information about you from the social media provider, as described in the section
 called "HOW DO WE HANDLE YOUR SOCIAL LOGINS?" below.
