@@ -607,7 +607,7 @@ Depending upon the state where you live, you may also have the following rights:
 
 ### How to Exercise Your Rights
 
-**To exercise these rights, you can contact us by referring to the contact details at the bottom of this document.
+To exercise these rights, you can contact us by referring to the contact details at the bottom of this document.
 
 Under certain US state data protection laws, you can designate an authorized agent to make a request on your behalf. We
 may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on
@@ -634,7 +634,7 @@ may submit a complaint to your state attorney general.
 
 ### California "Shine The Light" Law
 
-**California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California
 residents to request and obtain from us, once a year and free of charge, information about categories of personal
 information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all
 third parties with which we shared personal information in the immediately preceding calendar year. If you are a
