@@ -1,5 +1,7 @@
 # End User License Agreement
 
+Last Updated: January 7, 2025
+
 Train360 is licensed to You (End-User) by Train360, Corp., located at 10 Water View Lane, North Providence, Rhode Island 02904, United States ("**Licensor**"), for use only under the terms of this License Agreement. We are registered in Delaware, United States and have our registered office at 131 Continental Dr, Suite 305, Newark, DE 19713.
 
 By downloading the Licensed Application from Apple's software distribution platform ("App Store") and Google's software distribution platform ("Play Store"), and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement, and that You accept this License Agreement. App Store and Play Store are referred to in this License Agreement as "**Services**."
