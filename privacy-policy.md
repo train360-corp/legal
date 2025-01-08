@@ -140,7 +140,7 @@ changes to such personal information.
 
 ### Google API
 
-**Our use of information received from Google APIs will adhere
+Our use of information received from Google APIs will adhere
 to[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including
 the[Limited Use requirements](https://developers.google.com/terms/api-services-user-data-policy#limited-use).
 
